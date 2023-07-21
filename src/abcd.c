@@ -5,5 +5,5 @@
 
 void print()
 {
-    printf("lanja\n");
+    printf("taufic\n");
 }
